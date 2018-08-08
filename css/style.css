@@ -1,0 +1,14 @@
+
+img {
+	width: : 300px;
+	height: 200px;
+}
+#header{
+	width: 310px;
+	height: 205px;
+}
+
+#tema{
+	float: right;
+	font-weight: bold;
+}
